@@ -1,0 +1,11 @@
+/data/singaporeair/
+/data/lufthansa_usa/
+/data/basetable_pictures_luf_brand.csv
+/data/basetable_pictures.csv
+/data/merged_basetable_luf.csv
+/data/worldcities.csv
+
+
+
+/__pycache__/
+/.ipynb_checkpoints/
